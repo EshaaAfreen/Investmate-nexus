@@ -63,6 +63,3 @@ Other Tools & Services:
  🔐 Authentication System
 - Secure login/signup with role-based access
 
----
-
-## 📁 Project Structure
